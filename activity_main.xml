@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="400dp"
         android:layout_marginTop="16dp"
-        android:contentDescription="Captured Image"
+        android:contentDescription="Preview of the captured image"
         android:scaleType="centerCrop"
         android:src="@drawable/baseline_image_24" />
 
@@ -25,7 +25,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="16dp"
         android:backgroundTint="@color/blue"
-        android:text="Capture Image"
+        android:text="Button to capture an image"
         android:textSize="18sp" />
 
     <TextView
